@@ -1,0 +1,14 @@
+C:\Users\jouvence computer\Desktop\cours yata\programmation c shap\firstApp\bin\Debug\net9.0\firstApp.exe
+C:\Users\jouvence computer\Desktop\cours yata\programmation c shap\firstApp\bin\Debug\net9.0\firstApp.deps.json
+C:\Users\jouvence computer\Desktop\cours yata\programmation c shap\firstApp\bin\Debug\net9.0\firstApp.runtimeconfig.json
+C:\Users\jouvence computer\Desktop\cours yata\programmation c shap\firstApp\bin\Debug\net9.0\firstApp.dll
+C:\Users\jouvence computer\Desktop\cours yata\programmation c shap\firstApp\bin\Debug\net9.0\firstApp.pdb
+C:\Users\jouvence computer\Desktop\cours yata\programmation c shap\firstApp\obj\Debug\net9.0\firstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jouvence computer\Desktop\cours yata\programmation c shap\firstApp\obj\Debug\net9.0\firstApp.AssemblyInfoInputs.cache
+C:\Users\jouvence computer\Desktop\cours yata\programmation c shap\firstApp\obj\Debug\net9.0\firstApp.AssemblyInfo.cs
+C:\Users\jouvence computer\Desktop\cours yata\programmation c shap\firstApp\obj\Debug\net9.0\firstApp.csproj.CoreCompileInputs.cache
+C:\Users\jouvence computer\Desktop\cours yata\programmation c shap\firstApp\obj\Debug\net9.0\firstApp.dll
+C:\Users\jouvence computer\Desktop\cours yata\programmation c shap\firstApp\obj\Debug\net9.0\refint\firstApp.dll
+C:\Users\jouvence computer\Desktop\cours yata\programmation c shap\firstApp\obj\Debug\net9.0\firstApp.pdb
+C:\Users\jouvence computer\Desktop\cours yata\programmation c shap\firstApp\obj\Debug\net9.0\firstApp.genruntimeconfig.cache
+C:\Users\jouvence computer\Desktop\cours yata\programmation c shap\firstApp\obj\Debug\net9.0\ref\firstApp.dll
