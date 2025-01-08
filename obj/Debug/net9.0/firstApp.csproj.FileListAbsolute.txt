@@ -12,3 +12,4 @@ C:\Users\jouvence computer\Desktop\cours yata\programmation c shap\firstApp\obj\
 C:\Users\jouvence computer\Desktop\cours yata\programmation c shap\firstApp\obj\Debug\net9.0\firstApp.pdb
 C:\Users\jouvence computer\Desktop\cours yata\programmation c shap\firstApp\obj\Debug\net9.0\firstApp.genruntimeconfig.cache
 C:\Users\jouvence computer\Desktop\cours yata\programmation c shap\firstApp\obj\Debug\net9.0\ref\firstApp.dll
+C:\Users\jouvence computer\Desktop\cours yata\programmation c shap\firstApp\obj\Debug\net9.0\firstApp.sourcelink.json

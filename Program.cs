@@ -66,12 +66,7 @@ switch (number <=20){
         Console.WriteLine("Merci d'avoir utilisé le programme !");*/
 
         //boucle while
- Console.Write("hello DJISSI: "); 
+ /*Console.Write("hello DJISSI: "); 
+ Console.WriteLine("veillez entrez votre prenom");
         string nom = Console.ReadLine();
-        int i = 0;
-
-        while (i < 5) 
-        {
-            Console.WriteLine(nom); 
-            i++;
-        }
+Console.WriteLine($"ok maintennt je connais ton prenom,tu te prenomme: {nom}");*/
